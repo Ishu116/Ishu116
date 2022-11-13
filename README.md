@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jainendra Pratap Singh</h1>
+<h1 align="center">Hi 👋, I'm Jainendra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishu116&label=Profile%20views&color=0e75b6&style=flat" alt="ishu116" /> </p>
